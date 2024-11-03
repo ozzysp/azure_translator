@@ -8,7 +8,7 @@ endpoint = "YOUR_ENDPOINT"  # **Substitua com seu endpoint**
 
 # **Configuração dos idiomas de tradução**
 source_language = "en"
-target_language = "pt"
+target_language = "pt-br"
 
 def extrair_texto_principal(url):
     """Extrai o texto principal de uma página web para tradução."""
